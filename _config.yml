@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Shaswata's Blog
+description: Things came to my mind, which I can write here.
+show_downloads: false
+google_analytics: UA-154486274-1
 theme: jekyll-theme-hacker
