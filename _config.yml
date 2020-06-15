@@ -1,5 +1,33 @@
-title: shaswata56@blog:~$
-description: Things came to my mind, which I can write here.
-show_downloads: false
+title: Shaswata's Blog
+description: "Things came to my mind, which I can write here."
+author:
+  name: "shaswata56"
+  email: "shaswata56@gmail.com"
+  url: "https://shaswata56.github.io/blog"
+
 google_analytics: UA-154486274-1
-theme: jekyll-theme-hacker
+baseurl: /blog
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 4
+paginate_path: /page/:num/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+owner : "Shaswata Das"
+year : "2020"

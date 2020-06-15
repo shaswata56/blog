@@ -1,0 +1,12 @@
+<header>
+  <div>
+    <a id="a-title" href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
+		{% assign owner_first_name = site.owner | split: " " %}
+		<h1>{{ owner_first_name[0] | downcase }}@blog:~$</h1>
+    </a>
+    <h2 class="desc">{{ site.description | default: site.github.project_tagline }}</h2>
+    <div class="header-links">
+      {% include links.html %}
+    </div>
+  </div>
+</header>
