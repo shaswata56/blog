@@ -3,7 +3,7 @@ title: The way to lead a life
 published: true
 ---
 
-![Self Portrait by 宮本 武蔵](https://www.kampaibudokai.org/MusashiArt_files/martz1.jpg)
+![Self Portrait by 宮本 武蔵](https://i.imgur.com/uNUMG2h.png)
 
 Miyamoto Musashi (宮本 武蔵) was a Japanese swordsman, philosopher, strategist, writer, artist and well-learned Buddhist. He was a rōnin (浪人), which means a samurai without a master.
 
